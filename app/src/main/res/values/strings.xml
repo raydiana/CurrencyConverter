@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="enter_the_amount_you_want_to_convert">Enter the amount you want to convert</string>
+    <string name="amount_in">amount in £</string>
+</resources>
